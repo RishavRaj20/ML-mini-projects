@@ -5,5 +5,5 @@ Machine learning, a field experiencing rapid growth, possesses the potential to 
 
 The following are exemplary mini-projects that illuminate diverse facets of machine learning:
 
-# [Image Classification:](https://github.com/RishavRaj20/ML-mini-projects/tree/main/Image%20Classification)
+# 1. [Image Classification:](https://github.com/RishavRaj20/ML-mini-projects/tree/main/Image%20Classification)
 In this project, the goal is to construct a model proficient in categorizing images into distinct classes, such as distinguishing between cats and dogs. This undertaking offers invaluable insights into image processing techniques and the application of various machine learning algorithms.
