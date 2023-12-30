@@ -24,3 +24,18 @@ Image classification is a supervised learning problem: define a set of target cl
  Figure 2. Left: Cats can be captured in a photo in a variety of poses, with different backdrops and lighting conditions. Right: averaging pixel data to account for this variety does not produce any meaningful information.
 
 To model objects more flexibly, classic computer vision models added new features derived from pixel data, such as color histograms, textures, and shapes. The downside of this approach was that feature engineering became a real burden, as there were so many inputs to tweak. For a cat classifier, which colors were most relevant? How flexible should the shape definitions be? Because features needed to be tuned so precisely, building robust models was quite challenging, and accuracy suffered.
+
+# 2. [Twitter Sentiment Analysis](https://github.com/RishavRaj20/ML-mini-projects/tree/main/Twitter-Sentiment-Analysis)
+
+![image](https://github.com/RishavRaj20/ML-mini-projects/assets/81917305/9750a479-7d70-41db-a8d1-e8f873bfa778)
+
+
+## What is sentiment analysis? 
+
+Sentiment Analysis is the process of ‘computationally’ determining whether a piece of writing is positive, negative or neutral. It’s also known as opinion mining, deriving the opinion or attitude of a speaker. 
+
+## Why sentiment analysis?
+
+Business: In marketing field companies use it to develop their strategies, to understand customers’ feelings towards products or brand, how people respond to their campaigns or product launches and why consumers don’t buy some products.
+Politics: In political field, it is used to keep track of political view, to detect consistency and inconsistency between statements and actions at the government level. It can be used to predict election results as well!
+Public Actions: Sentiment analysis also is used to monitor and analyse social phenomena, for the spotting of potentially dangerous situations and determining the general mood of the blogosphere.
