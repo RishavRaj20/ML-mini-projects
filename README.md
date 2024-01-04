@@ -95,7 +95,9 @@ If someone showed you a picture of a person and asked you to guess what they’r
 ## The three main components of Emotion Detection are as follows:
 
 Image Preprocessing
+
 Feature Extraction
+
 Feature Classification
 
 
