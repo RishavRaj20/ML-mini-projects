@@ -80,3 +80,22 @@ But the value of predictive analytics goes well beyond lead targeting. Some pred
 Predictive sales analytics enable you to understand your customers better. You’ll learn what makes them tick, what drives loyalty, and why they have certain behaviors. These insights are invaluable when developing your customer loyalty programs.
 
 Predictive sales analytics help you create more targeted upselling and cross-selling strategies. For example, if you know that 30% of customers who buy product A come back to buy product B within one month, you can then create a bundle of products A and B to speed up the buying process and increase the average order value for each transaction.
+
+
+# 4. [Facial Emotion Detection](https://github.com/RishavRaj20/ML-mini-projects/tree/main/Facial%20Emotion%20Detection)
+
+## Emotion detection (n.):
+The process of identifying human emotion
+
+If someone showed you a picture of a person and asked you to guess what they’re feeling, chances are you’d have a pretty good idea about it. What if your computer could do the same? What if it could become even better than you are? It seems like an absurd thought, right?
+
+
+![image](https://github.com/RishavRaj20/ML-mini-projects/assets/81917305/3378c105-1298-4b99-99d3-97d15845f4c5)
+
+## The three main components of Emotion Detection are as follows:
+
+Image Preprocessing
+Feature Extraction
+Feature Classification
+
+
